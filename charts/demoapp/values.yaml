@@ -1,6 +1,6 @@
 image:
   repository: ghcr.io/wwwplotnikov/gitops-demo-app
-  tag: "11a8f6d"
+  tag: "7b07537"
 
 replicaCount: 2
 
